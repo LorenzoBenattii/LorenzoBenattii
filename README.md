@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**LorenzoBenattii/LorenzoBenattii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student and software developer.
+## About me
 
-Here are some ideas to get you started:
+- Applied Computer Science and Artificial Intelligence (ACSAI) student at Sapienza University of Rome
+- Mainly work with Python, Dart, Flutter, Go, C and C++
+- Interested in software engineering, robotics and systems
+- Currently working on university and personal projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+Python · Dart · Go · C · C++ · Java · SQL
+
+Flutter · ROS 2 · Docker · Git · Linux · SQLite
+
+## Projects
+
+- [LoudBeat](https://github.com/LorenzoBenattii/LoudBeat) — Personal music player built with Flutter
+- [AbU-ROS] — ROS 2 integration for the AbU-ROS framework
+- [Project Horae](https://github.com/LorenzoBenattii/project-horae) — Ecosystem simulator with Pygame
